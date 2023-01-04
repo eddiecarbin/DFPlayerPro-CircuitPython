@@ -1,5 +1,5 @@
 # DFPlayerPro-CircuitPython
-DFRobot_DF1201S port to Circuit Python
+Port of DFRobot_DF1201S to Circuit Python / MicroPython
 
 
 Fermion: DFPlayer Pro - A mini MP3 Player with On-board 128MB Storage (Breakout)
