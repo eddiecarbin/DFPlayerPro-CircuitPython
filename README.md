@@ -7,4 +7,4 @@ https://www.dfrobot.com/product-2232.html
 
 
 Notes: 
-  When you need to quikcly switch between a library of sounds. Wav files work better than MP3.
+  Using it as a sound effect board. When you need to quickly switch between sounds Wav files work better than MP3.
